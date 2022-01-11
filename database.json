@@ -1,0 +1,76 @@
+{
+    "locations": [
+        {
+            "id": 1,
+            "address": "128 Hane Unions"
+        },
+        {
+            "id": 2,
+            "address": "6750 Alia Mills"
+        },
+        {
+            "id": 3,
+            "address": "6387 Blick Ridge"
+        }
+    ],
+    "productTypes": [
+        {
+            "id": 1,
+            "type": "Hard Candy"
+        },
+        {
+            "id": 2,
+            "type": "Gum"
+        },
+        {
+            "id": 3,
+            "type": "Chocolate"
+        },
+        {
+            "id": 4,
+            "type": "Soda"
+        },
+        {
+            "id": 5,
+            "type": "Sour"
+        }
+    ],
+    "products": [
+        {
+            "id": 1,
+            "name": "Wrigley Gum",
+            "price": 0.75,
+            "productTypeId": 2
+        },
+        {
+            "id": 2,
+            "name": "Wonka Bar",
+            "price": 1.25,
+            "productTypeId": 3
+        },
+        {
+            "id": 3,
+            "name": "Creme Savers",
+            "price": 1,
+            "productTypeId": 1
+        },
+        {
+            "id": 4,
+            "name": "Mr. Pibb",
+            "price": 1.75,
+            "productTypeId": 4
+        },
+        {
+            "id": 5,
+            "name": "Smog Balls",
+            "price": 5,
+            "productTypeId": 5
+        },
+        {
+            "id": 6,
+            "name": "New Coke",
+            "price": 1.5,
+            "productTypeId": 4
+        }
+    ]
+}
